@@ -1,0 +1,16 @@
+2/19/
+
+worked perfect at 0.44 false rate
+
+
+add more positive
+train
+test
+take to negative
+train
+test
+lower false rate
+train
+test
+
+lowering happens only when adding to negative does not help
